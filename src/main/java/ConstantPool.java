@@ -11,6 +11,10 @@ public class ConstantPool {
         System.out.println(e == d); // false
         System.out.println(a == f); // true
         System.out.println(d == f); // false
+
+        Integer m = 200;
+        Integer n = 200;
+        System.out.println(m == n); // false
     }
 
 }

@@ -10,10 +10,12 @@ public class TestDemo {
          concat1(s1);
          concat2(s3);
          concat3(s2);
+//
+//         System.out.println(s1);
+//         System.out.println(s3);
+//         System.out.println(s2);
 
-         System.out.println(s1);
-         System.out.println(s3);
-         System.out.println(s2);
+        System.out.println(Integer.parseInt("a"));
 
     }
 
