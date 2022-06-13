@@ -1,6 +1,10 @@
 package day2;
 
+import java.sql.Connection;
+
 public class ExceptionDemo {
+
+    Connection con;
 
     public static void main(String[] args) {
         try{
