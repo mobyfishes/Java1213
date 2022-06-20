@@ -4,6 +4,7 @@ public class Student implements Serializable {
     private String name;
     private int age;
     private int SSN;
+    public static int global_int = 0;
 
     public Student(String name, int age, int SSN) {
         this.name = name;
